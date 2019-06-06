@@ -1,0 +1,8 @@
+---
+title: "Practica_Entrega"
+author: "JORGE CASAN VÁZQUEZ"
+date: "4 de abril de 2019"
+output: html_document
+output: pdf
+---
+
